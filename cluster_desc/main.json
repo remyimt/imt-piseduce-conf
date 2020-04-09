@@ -1,0 +1,13 @@
+{
+    "pimaster": {
+        "ip": "192.168.1.62",
+        "user": "root"
+    },
+    "switch": {
+        "address": "192.168.1.23",
+        "snmp_oid": "1.3.6.1.2.1.105.1.1.1.3.1"
+    },
+    "comments": "WARNING: Do NOT forget the ending /",
+    "env_cfg_dir": "/root/seduce_pp/cluster_desc/environments/",
+    "img_dir": "/root/environments/"
+}
