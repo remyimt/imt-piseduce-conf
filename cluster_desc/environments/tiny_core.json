@@ -1,7 +1,7 @@
 {
     "type": "default",
     "name": "tiny_core",
-    "img_name": "piCore-10.0beta12b.img.gz",
+    "img_name": "piCore-10.0beta12b.img.tar.gz",
     "img_size": 67186688,
     "sector_start": 92160,
     "ssh_user": "tc",

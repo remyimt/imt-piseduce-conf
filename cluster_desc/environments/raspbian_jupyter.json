@@ -1,7 +1,7 @@
 {
     "type": "default",
     "name": "raspbian_jupyter",
-    "img_name": "2019-09-20-raspbian-jupyter.img.gz", 
+    "img_name": "2019-09-20-raspbian-jupyter.img.tar.gz", 
     "img_size": 2025848832,
     "sector_start": 106496,
     "ssh_user": "root",
