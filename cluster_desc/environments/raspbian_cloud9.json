@@ -1,10 +1,20 @@
 {
     "type": "default",
     "name": "raspbian_cloud9",
-    "img_name": "2019-09-19-raspbian-cloud9.img.tar.gz",
-    "img_size": 2277507072,
-    "sector_start": 106496,
+    "desc": [ 
+        "Raspbian Buster Lite without modification.",
+        "SSH connections are available with passwords for the 'pi' user.",
+        "SSH connections are available with keys for the 'root' user.",
+        "SSH connections from the internal network use the port 22.",
+        "SSH connections from the external network use the port 220NN and the public_ip piNN.seduce.fr (NN, node number, node-NN).",
+        "The cloud9 interface is available at https://piNN.seduce.fr/ide.html. Login: admin"
+
+    ],
+    "img_name": "2020-02-13-raspbian-cloud9.img.tar.gz",
+    "img_size": 2000000000,
+    "sector_start": 532480,
     "ssh_user": "root",
     "shell": "bash",
+    "web": true,
     "script_test": "echo 'riri\nfifi\nloulou' > /root/picsou.txt"
 }

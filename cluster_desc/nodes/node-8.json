@@ -1,9 +1,8 @@
 {
     "name": "node-8",
-    "id": "23ff05a5",
-    "port_number": 8,
+    "port_number": 12,
     "ip": "192.168.1.58",
+    "switch": "main_24ports",
     "model": "RPI3B+",
-    "public_ip": "pi8.seduce.fr",
-    "public_port": "22008"
+    "id": "1760325b"
 }

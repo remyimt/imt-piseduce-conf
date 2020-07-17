@@ -1,10 +1,17 @@
 {
     "type": "default",
     "name": "tiny_core",
+    "desc": [ 
+        "Tiny core (picore operating system) without modification.",
+        "SSH connections are available with passwords for the 'tc' user.",
+        "SSH connections are available with SSH keys for the 'tc' user.",
+        "Use the port 22 with the private IP and the public_port with the public_ip."
+    ],
     "img_name": "piCore-10.0beta12b.img.tar.gz",
     "img_size": 67186688,
     "sector_start": 92160,
     "ssh_user": "tc",
     "shell": "sh",
+    "web": false,
     "script_test": "echo 'riri\nfifi\nloulou' > /home/tc/picsou.txt"
 }

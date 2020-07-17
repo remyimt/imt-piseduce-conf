@@ -1,0 +1,8 @@
+{
+    "name": "node-27",
+    "port_number": 6,
+    "ip": "192.168.1.77",
+    "switch": "8port_switch",
+    "model": "RPI4B",
+    "id": "7daf2135"
+}

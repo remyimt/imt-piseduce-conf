@@ -1,0 +1,9 @@
+{
+    "name": "main_24ports",
+    "ip": "192.168.1.23",
+    "community": "private",
+    "port_nb": 24,
+    "master_port": 0,
+    "oid": "1.3.6.1.2.1.105.1.1.1.3.1",
+    "oid_offset": 0
+}
