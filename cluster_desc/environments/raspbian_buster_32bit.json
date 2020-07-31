@@ -1,0 +1,18 @@
+{
+    "type": "default",
+    "name": "raspbian_buster_32bit",
+    "desc": [ 
+        "Raspbian Buster Lite without modification.",
+        "SSH connections are available with passwords for the 'pi' user.",
+        "SSH connections are available with keys for the 'root' user.",
+        "SSH connections from the internal network use the port 22.",
+        "SSH connections from the external network use the port 220NN (e.g, 22006) and the public_ip piNN.seduce.fr (e.g., pi6.seduce.fr)."
+    ],
+    "img_name": "2020-02-13-raspbian-buster-lite-armhf.img.tar.gz",
+    "img_size": 1849688064,
+    "sector_start": 532480,
+    "ssh_user": "root",
+    "shell": "bash",
+    "web": false,
+    "script_test": "echo 'riri\nfifi\nloulou' > /root/picsou.txt"
+}

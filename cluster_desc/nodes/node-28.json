@@ -2,7 +2,7 @@
     "name": "node-28",
     "port_number": 7,
     "ip": "192.168.1.78",
-    "switch": "8port_switch",
+    "switch": "switch_8ports",
     "model": "RPI4B",
     "id": "7e49b5dc"
 }

@@ -1,0 +1,18 @@
+{
+    "type": "default",
+    "name": "ubuntu-20.04-64bit",
+    "desc": [
+        "Ubuntu Server 64 bit without any modification.",
+        "SSH connections are available with passwords for the 'ubuntu' user.",
+        "SSH connections are available with keys for the 'root' user.",
+        "SSH connections from the internal network use the port 22.",
+        "SSH connections from the external network use the port 220NN (e.g, 22006) and the public_ip piNN.seduce.fr (e.g., pi6.seduce.fr)."
+    ],
+    "img_name": "ubuntu-20.04-preinstalled-server-arm64+raspi.img.tar.gz",
+    "img_size": 3202802688,
+    "sector_start": 526336,
+    "ssh_user": "root",
+    "shell": "bash",
+    "web": false,
+    "script_test": "echo 'riri\nfifi\nloulou' > /root/picsou.txt"
+}

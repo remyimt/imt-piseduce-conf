@@ -3,6 +3,6 @@
     "port_number": 16,
     "ip": "192.168.1.62",
     "switch": "main_24ports",
-    "model": "RPI3B+",
+    "model": "RPI3Bplus",
     "id": "2bae2643"
 }

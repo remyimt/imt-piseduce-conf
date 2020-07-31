@@ -1,16 +1,16 @@
 {
     "type": "default",
-    "name": "raspbian_cloud9",
+    "name": "raspbian_ttyd",
     "desc": [ 
-        "Raspbian Buster Lite with the Web IDE Cloud9.",
+        "Raspbian Buster Lite with the web terminal ttyd.",
         "SSH connections are available with passwords for the 'pi' user.",
         "SSH connections are available with keys for the 'root' user.",
         "SSH connections from the internal network use the port 22.",
         "SSH connections from the external network use the port 220NN (e.g, 22006) and the public_ip piNN.seduce.fr (e.g., pi6.seduce.fr).",
-        "The cloud9 interface is available at https://piNN.seduce.fr/ide.html. Login: admin"
+        "The ttyd interface is available at https://piNN.seduce.fr/ide.html. Login: admin"
 
     ],
-    "img_name": "2020-02-13-raspbian-cloud9.img.tar.gz",
+    "img_name": "2020-02-13-raspbian-ttyd.img.tar.gz",
     "img_size": 2478833664,
     "sector_start": 532480,
     "ssh_user": "root",

@@ -1,0 +1,14 @@
+{
+    "type": "hidden",
+    "name": "boot_test",
+    "desc": [
+        "This environment is used to test the boot phase."
+    ],
+    "img_name": "",
+    "img_size": 0,
+    "sector_start": 0,
+    "ssh_user": "root",
+    "shell": "bash",
+    "web": false,
+    "script_test": "echo 'riri\nfifi\nloulou' > /root/picsou.txt"
+}

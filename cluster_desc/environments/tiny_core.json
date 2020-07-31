@@ -7,9 +7,9 @@
         "SSH connections are available with SSH keys for the 'tc' user.",
         "Use the port 22 with the private IP and the public_port with the public_ip."
     ],
-    "img_name": "piCore-10.0beta12b.img.tar.gz",
-    "img_size": 67186688,
-    "sector_start": 92160,
+    "img_name": "piCore-11.0.img.tar.gz",
+    "img_size": 180195328,
+    "sector_start": 195693,
     "ssh_user": "tc",
     "shell": "sh",
     "web": false,
